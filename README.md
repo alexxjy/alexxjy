@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### 🔭 Currently working on interdisciplinary topics, such as CS, statistics and bioinformatics
+
+### 🌱 Still learning system, biology, coding, machine learning; lots of mixed topics :)
+
+### Newbie in the above materials, but looking forward to make progress
+
+### Cheers 😄
+
+
+
 <!--
 **alexxjy/alexxjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
