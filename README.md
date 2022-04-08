@@ -2,7 +2,7 @@
 
 ### 🔭 Currently working on interdisciplinary topics, such as CS, statistics and bioinformatics
 
-### 🌱 Still learning system, biology, coding, machine learning (lots of mixed topics :)
+### 🌱 Still learning lots of mixed topics :)
 
 ### Newbie, but looking forward to make progress
 
