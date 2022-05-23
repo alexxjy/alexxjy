@@ -1,12 +1,12 @@
-### Hi all 👋
+### Hi all 
 
 ### 🔭 Currently working on interdisciplinary topics, such as CS, statistics and bioinformatics
 
-### 🌱 Still has a lot to learn :)
+### Still has a lot to learn :)
 
 ### Newbie, but looking forward to make progress
 
-### Cheers 😄
+### Cheers 
 
 
 
