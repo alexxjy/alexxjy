@@ -4,7 +4,7 @@
 
 ### Still has a lot to learn :)
 
-### Newbie, but looking forward to make progress
+### Newbie, but look forward to making progress
 
 ### Cheers 
 
