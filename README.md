@@ -1,4 +1,4 @@
-### Hi all 
+### Hi all,
 
 ### 🔭 Currently working on interdisciplinary topics, such as CS, statistics and bioinformatics
 
@@ -6,7 +6,7 @@
 
 ### Newbie, but look forward to making progress
 
-### Cheers 
+### Cheers~
 
 
 
